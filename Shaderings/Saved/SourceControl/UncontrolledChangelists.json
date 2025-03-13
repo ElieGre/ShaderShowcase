@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/Materials_And_Shaders/M_Painted_Inst.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WR/IG66MXHT7IFVNFZDUXT3PD.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/Materials_And_Shaders/M_Glass_Effect.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/Materials_And_Shaders/M_Painted1.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/Materials_And_Shaders/M_PaintedOn.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/Materials_And_Shaders/M_GlassEffect.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/Materials_And_Shaders/M_OutlineHighlightEffect.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/C3/E29SV8OLAOGKB03ZOG0ISM.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/Materials_And_Shaders/M_Sludge.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/Materials_And_Shaders/M_Sludge_EditorSphere.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/Materials_And_Shaders/M_Sludge_EditorSphere_Normal.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FZ/8RLG33RQY4G0C3RP5BRAJU.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/Materials/M_Sludge.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/Materials_And_Shaders/M_PS1Graphics.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2O/VI2B2H9SSCMVV6LL5WS51U.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"H:/Year3/Slim Shader/ShaderShowcase/Shaderings/Content/Materials_And_Shaders/M_Painted.uasset"
+			]
+		}
+	]
+}
